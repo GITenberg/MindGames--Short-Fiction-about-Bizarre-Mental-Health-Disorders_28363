@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '24903'
     url: http://www.gutenberg.org/2009/agents/24903
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28363#MindGames--Short-Fiction-about-Bizarre-Mental-Health-Disorders
 gutenberg_issued: '2009-03-20'
 gutenberg_type: Text
 identifiers:
