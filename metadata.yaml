@@ -1,0 +1,37 @@
+_repo: MindGames--Short-Fiction-about-Bizarre-Mental-Health-Disorders_28363
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaknin, Samuel
+    aliases:
+    - Vaknin, Shmuel
+    - Vaknin, Sam
+    birthdate: 1961
+    gutenberg_agent_id: '2702'
+    url: http://www.gutenberg.org/2009/agents/2702
+    wikipedia: http://en.wikipedia.org/wiki/Sam_Vaknin
+  editor:
+    agent_name: Rangelovska, Lidija
+    gutenberg_agent_id: '24903'
+    url: http://www.gutenberg.org/2009/agents/24903
+description: ''
+gutenberg_issued: '2009-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28363'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Mental illness -- Fiction'
+- !lcc 'PJ'
+- !lcsh 'Short stories'
+tableOfContents: Anton's trap -- Live burial -- The Capgras shift -- Folie a Plusieurs
+  -- The con man cometh -- The elephant's call -- I hear voices -- The last days --
+  Lucid dreams -- Night terror -- A dream come true.
+title: 'MindGames: Short Fiction about Bizarre Mental Health Disorders'
+url: http://www.gutenberg.org/ebooks/28363
